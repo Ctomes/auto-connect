@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Download Contact</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <p>If your download doesn’t start automatically, <a id="downloadLink" href="chris_contact.vcf" download>click here</a>.</p>
+
+  <script>
+    // Automatically start the download when page loads
+    window.onload = () => {
+      const link = document.getElementById('downloadLink');
+      link.click();
+    };
+  </script>
+</body>
+</html>
