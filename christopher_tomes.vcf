@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Christopher Tomes
+N:Tomes;Christopher;;;
+ORG:Hall Chrysler Dodge Jeep RAM
+TITLE:Sales Associate
+TEL;TYPE=CELL:+1-562-248-4564
+EMAIL;TYPE=WORK:chris@collectionsbychris.com
+ADR;TYPE=WORK:;;123 Main Street;Virginia Beach;VA;23451;USA
+URL:https://collectionsbychris.com
+NOTE:Thank you for connecting!
+END:VCARD
